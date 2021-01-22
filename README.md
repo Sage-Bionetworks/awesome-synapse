@@ -31,6 +31,8 @@ A curated list of packages and tools using Synapse R, Python, React clients insp
 * [synapseformation](https://github.com/Sage-Bionetworks/synapseformation) - Client for using Synapse Formation templates.
 * [synapseMonitor](https://github.com/Sage-Bionetworks/synapseMonitor) - Monitor a Synapse Project / entities scoped by a Synapse file view.
 * [synapsegenie](https://github.com/Sage-Bionetworks/synapsegenie) - Crawl through Synapse files to validate and process them given a plugin file format registry.
+* [prov-service](https://github.com/Sage-Bionetworks/prov-service) - lightweight implementation of the Synapse Activity services, based on the PROV spec
+
 
 
 ## Java
