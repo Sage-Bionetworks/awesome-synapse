@@ -17,7 +17,6 @@ A curated list of packages and tools using Synapse R, Python, React clients insp
 * [synapseforms](https://github.com/Sage-Bionetworks/synapseforms) - Wrappers for the [Synapse Forms Services API](https://docs.synapse.org/rest/#org.sagebionetworks.repo.web.controller.FormController).
 
 
-
 ### Shiny
 * [SynapseShinyApp](https://github.com/Sage-Bionetworks/SynapseShinyApp) - Basic Shiny application for use on Sage Bionetwork's Synapse web portal.
 * [data curator app](https://github.com/Sage-Bionetworks/data_curator) - Data Ingestion Shiny App
@@ -28,7 +27,7 @@ A curated list of packages and tools using Synapse R, Python, React clients insp
 * [s3-synapse-sync](https://github.com/Sage-Bionetworks/s3-synapse-sync) - Lambda function code to index files in S3 buckets by creating filehandles on Synapse, triggered by file changes to S3.
 * [schematic](https://github.com/Sage-Bionetworks/schematic) - Python package for Data model and Data Ingress Management
 * [challengeutils](https://github.com/Sage-Bionetworks/challengeutils/pull/204/files) - Synapse challenge utility functions + more
-* [synapseformation](https://github.com/Sage-Bionetworks/synapseformation) - Client for using Synapse Formation templates.
+* [synapseformation](https://github.com/Sage-Bionetworks/synapseformation) - Client for using [Synapse Formation templates](https://github.com/Sage-Bionetworks/synapse-formation-templates).
 * [synapseMonitor](https://github.com/Sage-Bionetworks/synapseMonitor) - Monitor a Synapse Project / entities scoped by a Synapse file view.
 * [synapsegenie](https://github.com/Sage-Bionetworks/synapsegenie) - Crawl through Synapse files to validate and process them given a plugin file format registry.
 * [prov-service](https://github.com/Sage-Bionetworks/prov-service) - lightweight implementation of the Synapse Activity services, based on the PROV spec
@@ -48,3 +47,7 @@ A curated list of packages and tools using Synapse R, Python, React clients insp
 * [CWL Synapse Client](https://github.com/Sage-Bionetworks-Workflows/dockstore-tool-synapseclient) - CWL interface to Synapse command line.
 * [nextflow Synapse Client](https://github.com/Sage-Bionetworks/synapse-nextflow) - Nextflow interface to Synapse command line.
 * [rare-disease-workflows](https://github.com/Sage-Bionetworks/rare-disease-workflows) - Workflows for processing rare disease data on Synapse.
+
+
+## Lists
+* [Data Coordination Tools](https://github.com/Sage-Bionetworks/data-coordination-tools) - This repository gathers existing tools used for data coordination at Sage.
