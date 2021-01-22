@@ -2,6 +2,9 @@
 A curated list of packages and tools using Synapse R, Python, React clients inspired by other awesome-* lists.
 
 
+## Javascript
+* [Collaboration Portal](https://github.com/Sage-Bionetworks/sagebio-collaboration-portal) - Prototype Collaboration Portal
+
 ## R
 * [challengerutils](https://github.com/Sage-Bionetworks/challengerutils) - The R version of `challengeutils`
 
