@@ -2,9 +2,10 @@
 A curated list of packages and tools using Synapse R, Python, React clients inspired by other awesome-* lists.
 
 
-## Javascript
+## Portals
 * [portals](https://github.com/Sage-Bionetworks/portals) - React component based configurations that generate community portals built on top of Synapse
 * [Collaboration Portal](https://github.com/Sage-Bionetworks/sagebio-collaboration-portal) - Prototype Collaboration Portal
+* [Agora](https://github.com/Sage-Bionetworks/Agora)
 
 ## R
 * [sagethemes](https://github.com/Sage-Bionetworks/sagethemes) - The sagethemes package provides plot color palettes and themes that use the Sage Bionetworks branded colors.
