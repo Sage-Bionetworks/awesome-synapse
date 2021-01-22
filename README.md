@@ -3,6 +3,7 @@ A curated list of packages and tools using Synapse R, Python, React clients insp
 
 
 ## Javascript
+* [portals](https://github.com/Sage-Bionetworks/portals) - React component based configurations that generate community portals built on top of Synapse
 * [Collaboration Portal](https://github.com/Sage-Bionetworks/sagebio-collaboration-portal) - Prototype Collaboration Portal
 
 ## R
