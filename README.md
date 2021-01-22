@@ -7,7 +7,7 @@ List of repositories and short descriptions about the packages and code that uti
 
 
 ### Shiny
-
+* [data curator app](https://github.com/Sage-Bionetworks/data_curator) - Data Ingestion Shiny App
 
 ## Python
 * [challengeutils](https://github.com/Sage-Bionetworks/challengeutils/pull/204/files) - Synapse challenge utility functions + more
