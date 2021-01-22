@@ -21,5 +21,7 @@ A curated list of packages and tools using Synapse R, Python, React clients insp
 * [SynapseWorkflowOrchestrator](https://github.com/Sage-Bionetworks/SynapseWorkflowOrchestrator) - Links one or more Synapse Evaluation queues to a workflow engine. Each Evaluation queue is associated with a workflow template. Each submission is a workflow job, an instance of the workflow template. Upon submission to the Evaluation queue the Workflow Orchestrator initiates and tracks the workflow job, sending progress notifications and uploading log files.
 
 
-## CWL
-* [Synapse Client](https://github.com/Sage-Bionetworks-Workflows/dockstore-tool-synapseclient) - CWL interface to Synapse command line
+## Workflow
+
+* [CWL Synapse Client](https://github.com/Sage-Bionetworks-Workflows/dockstore-tool-synapseclient) - CWL interface to Synapse command line.
+* [nextflow Synapse Client](https://github.com/Sage-Bionetworks/synapse-nextflow) - Nextflow interface to Synapse command line.
