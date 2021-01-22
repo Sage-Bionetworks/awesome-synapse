@@ -22,6 +22,8 @@ A curated list of packages and tools using Synapse R, Python, React clients insp
 * [data curator app](https://github.com/Sage-Bionetworks/data_curator) - Data Ingestion Shiny App
 * [dccvalidator](https://sage-bionetworks.github.io/dccvalidator/index.html) - package and Shiny app to perform data validation and QA/QC
 * [projectLive](https://github.com/Sage-Bionetworks/projectLive) - Track the impact of our funding partners in real time
+* [Synodos_NF2](https://github.com/Sage-Bionetworks/Synodos_NF2_SyDE_shinyApp) - Synodos Data Explorer(SyDE) Shiny App
+* [PCBC](https://github.com/Sage-Bionetworks/PCBCDataExplorer) - PCBC Shiny Application
 
 ## Python
 * [s3-synapse-sync](https://github.com/Sage-Bionetworks/s3-synapse-sync) - Lambda function code to index files in S3 buckets by creating filehandles on Synapse, triggered by file changes to S3.
