@@ -8,10 +8,11 @@ A curated list of packages and tools using Synapse R, Python, React clients insp
 
 ## R
 * [challengerutils](https://github.com/Sage-Bionetworks/challengerutils) - The R version of `challengeutils`
-
+* [dccmonitor](https://github.com/Sage-Bionetworks/dccmonitor) - This package is intended to assist Sage Bionetworks data curators to check the status of metadata and documentation files uploaded via the dccvalidator shiny application
 
 ### Shiny
 * [data curator app](https://github.com/Sage-Bionetworks/data_curator) - Data Ingestion Shiny App
+* [dccvalidator](https://sage-bionetworks.github.io/dccvalidator/index.html) - package and Shiny app to perform data validation and QA/QC
 
 ## Python
 * [schematic](https://github.com/Sage-Bionetworks/schematic) - Python package for Data model and Data Ingress Management
