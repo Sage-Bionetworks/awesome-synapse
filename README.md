@@ -31,6 +31,10 @@ A curated list of packages and tools using Synapse R, Python, React clients insp
 
 ## Java
 * [SynapseWorkflowOrchestrator](https://github.com/Sage-Bionetworks/SynapseWorkflowOrchestrator) - Links one or more Synapse Evaluation queues to a workflow engine. Each Evaluation queue is associated with a workflow template. Each submission is a workflow job, an instance of the workflow template. Upon submission to the Evaluation queue the Workflow Orchestrator initiates and tracks the workflow job, sending progress notifications and uploading log files.
+* [NRGRSynapseGlue](https://github.com/Sage-Bionetworks/NRGRSynapseGlue) - This is the integration of NRGR and Synapse, linking data access approval in NRGR to data access in Synapse.
+* [EvaluationStatistics](https://github.com/Sage-Bionetworks/EvaluationStatistics) - This application computes statistics on the evaluation queues in Synapse.
+* [Synapse-User-Geolocation](https://github.com/Sage-Bionetworks/Synapse-User-Geolocation) - An application to geolocate all Synapse users and display them on a map.
+
 
 
 ## Workflow
