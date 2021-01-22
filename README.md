@@ -1,6 +1,14 @@
 # Awesome Synapse Plugins
 A curated list of packages and tools using Synapse R, Python, React clients inspired by other awesome-* lists.
 
+- [Portals](#portals)
+- [R](#r)
+  * [Shiny](#shiny)
+- [Python](#python)
+- [Java](#java)
+- [Workflow](#workflow)
+- [Lists](#lists)
+
 
 ## Portals
 * [portals](https://github.com/Sage-Bionetworks/portals) - React component based configurations that generate community portals built on top of Synapse
