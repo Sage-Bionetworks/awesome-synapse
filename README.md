@@ -16,6 +16,7 @@ A curated list of packages and tools using Synapse R, Python, React clients insp
 * [projectLive](https://github.com/Sage-Bionetworks/projectLive) - Track the impact of our funding partners in real time
 
 ## Python
+* [s3-synapse-sync](https://github.com/Sage-Bionetworks/s3-synapse-sync) - Lambda function code to index files in S3 buckets by creating filehandles on Synapse, triggered by file changes to S3.
 * [schematic](https://github.com/Sage-Bionetworks/schematic) - Python package for Data model and Data Ingress Management
 * [challengeutils](https://github.com/Sage-Bionetworks/challengeutils/pull/204/files) - Synapse challenge utility functions + more
 * [synapseformation](https://github.com/Sage-Bionetworks/synapseformation) - Client for using Synapse Formation templates.
