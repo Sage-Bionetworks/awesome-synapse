@@ -14,6 +14,8 @@ A curated list of packages and tools using Synapse R, Python, React clients insp
 * [challengerutils](https://github.com/Sage-Bionetworks/challengerutils) - The R version of `challengeutils`
 * [dccmonitor](https://github.com/Sage-Bionetworks/dccmonitor) - This package is intended to assist Sage Bionetworks data curators to check the status of metadata and documentation files uploaded via the dccvalidator shiny application
 * [mhealthtools](https://github.com/Sage-Bionetworks/mhealthtools) - A modular R package for extracting features from mobile sensor data
+* [synapseforms](https://github.com/Sage-Bionetworks/synapseforms) - Wrappers for the [Synapse Forms Services API](https://docs.synapse.org/rest/#org.sagebionetworks.repo.web.controller.FormController).
+
 
 
 ### Shiny
