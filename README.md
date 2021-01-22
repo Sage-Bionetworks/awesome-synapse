@@ -8,6 +8,7 @@ A curated list of packages and tools using Synapse R, Python, React clients insp
 * [Agora](https://github.com/Sage-Bionetworks/Agora)
 
 ## R
+* [synapseAnnotations](https://github.com/Sage-Bionetworks/synapseAnnotations/) - Sage Bionetworks derived standards for annotating content in Synapse. This provide a mechanism for defining, managing, and implementing controlled vocabularies when annotating content in Synapse.
 * [sagethemes](https://github.com/Sage-Bionetworks/sagethemes) - The sagethemes package provides plot color palettes and themes that use the Sage Bionetworks branded colors.
 * [challengerutils](https://github.com/Sage-Bionetworks/challengerutils) - The R version of `challengeutils`
 * [dccmonitor](https://github.com/Sage-Bionetworks/dccmonitor) - This package is intended to assist Sage Bionetworks data curators to check the status of metadata and documentation files uploaded via the dccvalidator shiny application
