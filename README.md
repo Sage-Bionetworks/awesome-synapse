@@ -1,5 +1,5 @@
-# awesome-synapse-plugins
-List of repositories and short descriptions about the packages and code that utilizes the Synapse R, Python, React clients.
+# Awesome Synapse Plugins
+A curated list of packages and tools using Synapse R, Python, React clients inspired by other awesome-* lists.
 
 
 ## R
