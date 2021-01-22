@@ -14,6 +14,7 @@ A curated list of packages and tools using Synapse R, Python, React clients insp
 * [challengerutils](https://github.com/Sage-Bionetworks/challengerutils) - The R version of `challengeutils`
 * [dccmonitor](https://github.com/Sage-Bionetworks/dccmonitor) - This package is intended to assist Sage Bionetworks data curators to check the status of metadata and documentation files uploaded via the dccvalidator shiny application
 
+
 ### Shiny
 * [SynapseShinyApp](https://github.com/Sage-Bionetworks/SynapseShinyApp) - Basic Shiny application for use on Sage Bionetwork's Synapse web portal.
 * [data curator app](https://github.com/Sage-Bionetworks/data_curator) - Data Ingestion Shiny App
@@ -41,3 +42,4 @@ A curated list of packages and tools using Synapse R, Python, React clients insp
 
 * [CWL Synapse Client](https://github.com/Sage-Bionetworks-Workflows/dockstore-tool-synapseclient) - CWL interface to Synapse command line.
 * [nextflow Synapse Client](https://github.com/Sage-Bionetworks/synapse-nextflow) - Nextflow interface to Synapse command line.
+* [rare-disease-workflows](https://github.com/Sage-Bionetworks/rare-disease-workflows) - Workflows for processing rare disease data on Synapse.
