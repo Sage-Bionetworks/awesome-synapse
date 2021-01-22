@@ -13,6 +13,7 @@ A curated list of packages and tools using Synapse R, Python, React clients insp
 * [dccmonitor](https://github.com/Sage-Bionetworks/dccmonitor) - This package is intended to assist Sage Bionetworks data curators to check the status of metadata and documentation files uploaded via the dccvalidator shiny application
 
 ### Shiny
+* [SynapseShinyApp](https://github.com/Sage-Bionetworks/SynapseShinyApp) - Basic Shiny application for use on Sage Bionetwork's Synapse web portal.
 * [data curator app](https://github.com/Sage-Bionetworks/data_curator) - Data Ingestion Shiny App
 * [dccvalidator](https://sage-bionetworks.github.io/dccvalidator/index.html) - package and Shiny app to perform data validation and QA/QC
 * [projectLive](https://github.com/Sage-Bionetworks/projectLive) - Track the impact of our funding partners in real time
