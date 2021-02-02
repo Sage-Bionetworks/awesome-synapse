@@ -1,4 +1,4 @@
-# Awesome Synapse Plugins
+# Awesome Synapse
 A curated list of packages and tools using Synapse R, Python, React clients inspired by other awesome-* lists.
 
 - [Portals](#portals)
