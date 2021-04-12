@@ -28,7 +28,7 @@ A curated list of packages and tools using Synapse R, Python, React clients insp
 
 ### Shiny
 * [SynapseShinyApp](https://github.com/Sage-Bionetworks/SynapseShinyApp) - Basic Shiny application for use on Sage Bionetwork's Synapse web portal.
-* [data curator app](https://github.com/Sage-Bionetworks/data_curator) - Data Ingestion Shiny App
+* [data curator app](https://github.com/Sage-Bionetworks/data_curator) - Shiny application to annotate and ingest metadata (manifest) files
 * [dccvalidator](https://sage-bionetworks.github.io/dccvalidator/index.html) - package and Shiny app to perform data validation and QA/QC
 * [projectLive](https://github.com/Sage-Bionetworks/projectLive) - Track the impact of our funding partners in real time
 * [Synodos_NF2](https://github.com/Sage-Bionetworks/Synodos_NF2_SyDE_shinyApp) - Synodos Data Explorer(SyDE) Shiny App
@@ -38,7 +38,7 @@ A curated list of packages and tools using Synapse R, Python, React clients insp
 
 ## Python
 * [s3-synapse-sync](https://github.com/Sage-Bionetworks/s3-synapse-sync) - Lambda function code to index files in S3 buckets by creating filehandles on Synapse, triggered by file changes to S3.
-* [schematic](https://github.com/Sage-Bionetworks/schematic) - Python package for Data model and Data Ingress Management
+* [schematic](https://github.com/Sage-Bionetworks/schematic) - Python package for Biomedical Data model and Data Ingress Management
 * [challengeutils](https://github.com/Sage-Bionetworks/challengeutils/pull/204/files) - Synapse challenge utility functions + more
 * [synapseformation](https://github.com/Sage-Bionetworks/synapseformation) - Client for using [Synapse Formation templates](https://github.com/Sage-Bionetworks/synapse-formation-templates).
 * [synapseMonitor](https://github.com/Sage-Bionetworks/synapseMonitor) - Monitor a Synapse Project / entities scoped by a Synapse file view.
